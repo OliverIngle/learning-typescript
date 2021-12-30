@@ -1,3 +1,12 @@
 # Learning TypeScript
 
-This repo is a collection of TypeScript code I wrote to load the language.
+Collection of code i wrote whilst learning TypeScript.
+
+## Basics
+
+- Types/Interfaces
+- Typing
+- Extends
+- Generics
+
+Feel free to browse through this code!
