@@ -1,3 +1,4 @@
+"use strict";
 //      ------ TYPING ------
 //      --- Variables ---
 var foo = 42; //foo is now strongly typed as a number

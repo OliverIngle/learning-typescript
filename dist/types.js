@@ -1,3 +1,4 @@
+"use strict";
 var sahara = 'desert';
 var amazon = {
     name: 'Amazon rainforest',
