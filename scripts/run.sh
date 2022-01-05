@@ -13,10 +13,15 @@ elif [ $opt == 'ts' ]; then
 printf  "\n\n\t\t----- RUNNING TYPESCRIPT COMPILER ------\n"
 tsc
 
+elif [ $opt == 'dev' ]; then
+printf  "\n\n\t\t----- RUNNING NODEMON ------\n"
+nodemon ./src/index.ts
+
 elif [ $opt == 'help' ]; then
 printf "
 ts   > run's typescript compiler
-js   > run's javascript file (to specify later)\n
+js   > run's javascript file (to specify later)
+dev  > starts nodemon on index file\n
 "
 
 else

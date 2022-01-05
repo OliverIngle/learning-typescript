@@ -1,5 +1,5 @@
 //      ------ TYPES ------
-//      --- ---
+//      --- Union Types ---
 type Biome = 'forest' | 'desert' | 'ocean' | 'jungle' | 'mountains';
 var sahara: Biome = 'desert'
 
