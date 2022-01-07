@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "./scripts/run.sh"
+    "start": "node ./dist/index.js",
+    "dev": "./scripts/run.sh"
   },
   "keywords": [],
   "author": "",

@@ -17,6 +17,6 @@ As a learning project I decided to build a simple Express API.
 
 Run
 `
-npm start
+npm run dev
 `
 to either run app or start coding!
