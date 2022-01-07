@@ -1,4 +1,4 @@
 ### Progress bar
 
-GET http://localhost:5000/progress?total=908&completed=567&length=30
+GET http://localhost:5000/progress?total=908&completed=1560&length=30
 Content-Type: application/json
